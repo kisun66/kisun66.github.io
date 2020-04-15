@@ -100,8 +100,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "이승영"
-  avatar           : "/assets/images/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Seungyoung Lee"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Coder"
   location         : "광주광역시"
   email            : "lkim4573@gmil.com"
