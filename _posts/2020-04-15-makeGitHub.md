@@ -14,4 +14,5 @@ comments: true
 ---
 
 ## 1. 깃허브 레파지토리 생성하기
-<img src="./../assets/images/github1.png">
+
+![github1](/assets/images/github1.png)
