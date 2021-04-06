@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "이승영"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/keyboard_cat.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : "Gwangju"
   email            : "lkim4573@gamil.com"
