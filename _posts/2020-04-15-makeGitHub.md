@@ -3,7 +3,7 @@ title: "Jekyll(지킬)을 이용한 Github 블로그 만들기"
 strapline: "Jekyll(지킬)을 이용한 Github 블로그 만들기"
 description: "Github"
 header:
- overlay_image: /assets/images/top_1.jpeg
+ overlay_image: /assets/images/top_2.png
 categories:
   - "Git"
 tag:
