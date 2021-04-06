@@ -5,9 +5,10 @@ description: "Github"
 header:
  overlay_image: /assets/images/top_1.jpeg
 categories:
-  - "Github"
+  - "Git"
 tag:
   - "Github"
+  - "Git"
 toc: true
 last_modified_at: 2020-04-15
 comments: true
